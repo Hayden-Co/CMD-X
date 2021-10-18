@@ -403,6 +403,7 @@ local Devs = {
 	["knifemarks"] = "Owner",
 	["CMD_X"] = "Owner",
 	["Curvn"] = "Dev",
+	["hayd3n11hi"] = "Descendo",
 }
 
 DevCords = {
@@ -457,6 +458,7 @@ local Donors = {
 	["YanniLove"] = "Custom6",
 	["painteatr"] = "Custom7",
 	["VII"] = "Custom8",
+	["hayd3n11hi"] = "Custom9",
 }
 
 local Tier = {
@@ -509,6 +511,11 @@ local Tier = {
 		Tag = "7",
 		Color = Color3.fromRGB(255,0,0),
 		SCHAT = "7"
+	},
+	["Custom9"] = {
+		Tag = "Descendo-Chan",
+		Color = Color3.fromRGB(255,0,0),
+		SCHAT = "Descendo-Chan"
 	},
 }
 
